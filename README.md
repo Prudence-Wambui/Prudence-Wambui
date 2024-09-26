@@ -1,6 +1,7 @@
 ![GIF](https://media.giphy.com/media/4AbfWbllzAYYOa5Cx2/giphy.gif)
 
 # 💫 About Me:
+
 🛠️ **Languages and Tools**<br>
 🌐 **Languages I Know**<br>
 - **C:** Advanced<br>
@@ -14,6 +15,16 @@
 - HTML<br>
 - CSS<br>
 - JavaScript<br>
+
+## 🚀 Projects
+
+<details>
+  <summary>Click to expand</summary>
+
+  - [Multiplication App](https://prudence-wambui.github.io/Multiplication-App/)
+  - [Digital Clock](https://prudence-wambui.github.io/DigitalClock/)
+
+</details>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@prudence_wambui_official)
